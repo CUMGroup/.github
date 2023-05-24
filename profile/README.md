@@ -19,7 +19,7 @@ Just a bunch of memers working on some projects 🎈
 </tr>
 </table>
 
-### Aspiring CUMers
+### NewCUMers
 <a href="https://github.com/Proliecan">@Proliecan</a><br>
 <a href="https://github.com/WachtelHD">@WachtelHD</a><br>
 <a href="https://github.com/zDanaa">@zDanaa</a><br>
